@@ -1,0 +1,3 @@
+[default.extend-words]
+datatype = "datatype"
+clickhouse = "clickhouse"
